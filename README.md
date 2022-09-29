@@ -43,6 +43,9 @@ for idx, track in enumerate(results['tracks']['items']):
 
 ### With user authentication
 
+
+i fixed that
+
 ```python
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
